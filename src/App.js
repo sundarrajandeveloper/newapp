@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-<<<<<<< HEAD
+
      
         
         <a
@@ -16,9 +16,9 @@ function App() {
           welcome sundarrajan jobs
         </a>
       
-=======
+
      <p> welcome sundarrajan </p>
->>>>>>> 735f38a18ffab8374c85a5729662e69c5af9827c
+
     </div>
   );
 }
